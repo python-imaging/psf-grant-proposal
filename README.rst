@@ -28,7 +28,7 @@ A little over a year later on 2011-09-08, Takayuki Shimizukawa [6]_ uploaded the
 
 For the first 3 years, the fork focused on packaging fixes only. Now a Python 3 compatible pull request from Brian Crowell [7]_ has been merged, and the final stages of release preparation are underway.
 
-In early 2013, Barry Warsaw created an Ubuntu Personal Package Archive and tested it with Python 3 [8]_. And the Fedora Project is now planning to include Pillow with their release of Fedora 19.
+In early 2013, Barry Warsaw created an Ubuntu Personal Package Archive and tested it with Python 3 [8]_. And the Fedora Project is now planning to include Pillow with their release of Fedora 19 [9]_.
 
 Finally, the Pillow project has promised a Python 3 compatible release of Pillow by PyCon 2013. Unfortunately as a volunteer, Alex Clark has been unable to allocate the time needed to properly complete the remaining critical tasks. Funding from the Python Software Foundation would help make it possible for him to do so [10]_.
 
