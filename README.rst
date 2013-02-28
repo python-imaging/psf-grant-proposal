@@ -37,7 +37,7 @@ Grant objective
 
 To provide a Python 3 compatible release of the Python Imaging Library via the Pillow fork. The following tasks remain:
 
-- Review and merge 10 outstanding pull requests: https://github.com/python-imaging/Pillow/pulls
+- Review and merge 10 outstanding pull requests:
     - https://github.com/python-imaging/Pillow/pull/64 ( Testing improvements and better Python 3.x support )
     - https://github.com/python-imaging/Pillow/pull/60 ( Py3k libraries path fix (issue #41) )
     - https://github.com/python-imaging/Pillow/pull/59 ( Fix issue #52 )
